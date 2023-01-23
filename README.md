@@ -8,9 +8,9 @@
   [BlockLine](https://github.com/susyboy23/BlockLine) -- Simple programming language ( **paused** )
 
 ## Cool things
-  [Ninite](ninite.com) -- Really usefull to easilly re install escentiall programs that i used to have in one pack
+  [Ninite](https://ninite.com/) -- Really usefull to easilly re install escentiall programs that i used to have in one pack
   
-  [ChatGPT](chat.openai.com) -- Really usefull to make fast coding questions
+  [ChatGPT](https://chat.openai.com/) -- Really usefull to make fast coding questions
   
   [Miniaudio](https://github.com/mackron/miniaudio) -- Simple, coss-platform audio library that is single header (C/C++)
   
