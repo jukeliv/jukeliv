@@ -14,4 +14,4 @@
   
   [Miniaudio](https://github.com/mackron/miniaudio) -- Simple, coss-platform audio library that is single header (C/C++)
   
-  [ini_rw]([https://github.com/mackron/miniaudio](https://github.com/nightmareci/ini_rw) -- Modification of `ini.h`that let's you write data and not only read it (C/C++)
+  [ini_rw](https://github.com/nightmareci/ini_rw) -- Modification of `ini.h`that let's you write data and not only read it (C/C++)
